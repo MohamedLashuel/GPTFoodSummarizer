@@ -9,4 +9,4 @@ $ export OPENAI_API_KEY=<openai key>
 $ python main.py <foodname>
 ```
 
-<foodname> must be wrapped in quotes if it is made of multiple words, e.g. "lentil soup"
+foodname must be wrapped in quotes if it is made of multiple words, e.g. "lentil soup"
