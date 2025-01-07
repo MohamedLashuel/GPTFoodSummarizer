@@ -52,6 +52,7 @@ def finalSummary(foodpages, food):
         - The main ingredients of {food} and how it's prepared
         - Additional ingredients that are used in some of the recipes
         - Any other information given to you, if it's important
+        - Existence of options for alternative diets (e.g. vegetarian/vegan/gluten-free) if it's relevant and provided to you
         Do not include the following:
         - History, origins, or culture of the dish
         - Any 'fluff' that does not convey useful information (e.g. 'lasagna remains a beloved dish for many')""",
